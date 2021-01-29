@@ -1,7 +1,6 @@
 # Online Pizza Ordering Store - Individual Project
-<br />
-Problem Statement:
-Katie’s Pizza Store came to me with a problem that she needed help setting
+# Problem Statement:
+# Katie’s Pizza Store came to me with a problem that she needed help setting
 up a system to deliver a database with a user interface where customers can
 successfully order pizza online that the pizza store employees can access.
 Katie’s Pizza Store wants to increase sales by implementing this form of
@@ -11,8 +10,7 @@ the system while collecting personal information, payment, and order
 information. The store employees need to be able to successfully receive the
 orders among other helpful tasks such as changing and tracing the order
 status and having access to view a customer’s information for verification.
-
-Proposal:
+#Proposal:
 We propose a user-friendly software system to allow the customers to
 successfully create and edit a customer account to order pizzas online, trace
 the status of an order, and view their order history. The software system will
