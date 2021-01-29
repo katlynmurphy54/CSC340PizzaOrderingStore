@@ -1,4 +1,4 @@
-# Pizza-Ordering-Store
+# Online Pizza Ordering Store
 Individual Project
 Problem Statement:
 Katie’s Pizza Store came to me with a problem that she needed help setting
