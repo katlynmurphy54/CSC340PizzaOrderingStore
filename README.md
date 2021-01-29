@@ -1,5 +1,5 @@
-# Online Pizza Ordering Store
-Individual Project
+# Online Pizza Ordering Store - Individual Project
+<br />
 Problem Statement:
 Katie’s Pizza Store came to me with a problem that she needed help setting
 up a system to deliver a database with a user interface where customers can
