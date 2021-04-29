@@ -1,4 +1,4 @@
-# Online Pizza Ordering Store - Individual Project
+# Online Pizza Ordering Store - Individual Project - Fall 2020
 Problem Statement:
 <br />
 Katie’s Pizza Store came to me with a problem that she needed help setting
