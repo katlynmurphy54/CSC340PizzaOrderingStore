@@ -1,5 +1,8 @@
 # CSC 340 - Ethics & Software Engineering - Fall 2020
 ## Online Pizza Ordering Store - Individual Project
+
+This is the source code and report for my submission of the CSC 340 individual project in Fall 2021 @ EKU.
+
 Problem Statement:
 Katie’s Pizza Store came to me with a problem that she needed help setting
 up a system to deliver a database with a user interface where customers can
@@ -37,5 +40,3 @@ materials and sauces) (Pizza Store)
 6. Receive new orders (Pizza Store)
 7. Search a customer’s profile (Pizza Store)
 8. Allow customer to check their order history (Customer)
-
-Attached is my code designed in visual studio along with my report explaining and desiging the project. 
