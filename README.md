@@ -37,3 +37,5 @@ materials and sauces) (Pizza Store)
 6. Receive new orders (Pizza Store)
 7. Search a customer’s profile (Pizza Store)
 8. Allow customer to check their order history (Customer)
+
+Attached is my code designed in visual studio along with my report explaining and desiging the project. 
