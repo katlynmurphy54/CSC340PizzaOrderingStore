@@ -1,6 +1,6 @@
-# Online Pizza Ordering Store - Individual Project - Fall 2020
+# CSC 340 - Ethics & Software Engineering - Fall 2020
+## Online Pizza Ordering Store - Individual Project
 Problem Statement:
-<br />
 Katie’s Pizza Store came to me with a problem that she needed help setting
 up a system to deliver a database with a user interface where customers can
 successfully order pizza online that the pizza store employees can access.
@@ -11,18 +11,16 @@ the system while collecting personal information, payment, and order
 information. The store employees need to be able to successfully receive the
 orders among other helpful tasks such as changing and tracing the order
 status and having access to view a customer’s information for verification.
-<br />
+
 Proposal:
-<br />
 We propose a user-friendly software system to allow the customers to
 successfully create and edit a customer account to order pizzas online, trace
 the status of an order, and view their order history. The software system will
 also allow the employees of the pizza store to successfully receive new
 orders, trace the status of an order, and search a customer’s profile in the
 software system.
-<br />
+
 System Description:
-<br />
 The system includes two subsystems: an online ordering subsystem and an
 order management subsystem. The online ordering subsystem allows
 customers to order pizzas online. The orders shall be kept in a database.
